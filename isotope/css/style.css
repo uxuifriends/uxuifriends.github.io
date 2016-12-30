@@ -1,0 +1,7 @@
+img{vertical-align: top;}
+.nav{margin-bottom: 1em;}
+.nav button{background-color: #4099ff;padding: 1em;border: 0;color: #fff;font-weight: bold;border-radius:0.5em ;}
+
+.grid-item{width: 300px;}
+.grid-item2{width: 600px;}
+.grid-item img{width: 100%;}
